@@ -1,0 +1,28 @@
+.products {
+  color: black;
+}
+
+.sortContainer {
+  background-color: #9b59b6;
+  color: inherit;
+  padding: 1rem;
+}
+
+.sortTitle {
+  margin-right: 1rem;
+}
+
+.typeWrapper {
+  display: inline-flex;
+  margin-right: 0.5rem;
+  font-weight: 700;
+}
+
+.typeWrapper:hover {
+  color: #f1c40f;
+  cursor: pointer;
+}
+
+.activeTypeWrapper {
+  color: #f1c40f;
+}

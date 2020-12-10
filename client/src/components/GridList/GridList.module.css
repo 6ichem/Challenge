@@ -1,0 +1,17 @@
+.gridContainer {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  grid-gap: 1rem;
+  background-color: #3498db;
+  padding: 10px;
+  color: inherit;
+}
+
+.scrollable {
+  max-height: 700px;
+  overflow: auto;
+}
+
+.gridFullWidth {
+  grid-column: 1/6;
+}

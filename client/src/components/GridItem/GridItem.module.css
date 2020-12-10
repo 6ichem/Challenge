@@ -1,0 +1,23 @@
+.item {
+  background-color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.itemInfo {
+  margin-bottom: 0.5rem;
+}
+
+.faceContainer {
+  margin: 1rem auto;
+  display: flex;
+  justify-content: center;
+}
+
+.face {
+  border: 2px solid #3498db;
+  font-weight: 700;
+  padding: 1rem;
+  border-radius: 5px;
+  color: #c0392b;
+}

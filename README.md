@@ -1,6 +1,6 @@
 ### Coding challenge for a frontend developer position
 
-You must run both the server and the react app (client folder) at the same time. (server: npm run start - client: npm run dev)
+You must run both the server and the react app (client folder) at the same time. The server must be running at localhost with port 3000 for the react app to make the proper requests or you can change the port from the logic files where I make the requests. (modules: npm install - server: npm run start - client: npm run dev)
 
 ### INTRO
 
